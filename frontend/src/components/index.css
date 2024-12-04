@@ -1,0 +1,116 @@
+.defect-type {
+  font-size: 0.9em;
+  font-weight: 600;
+  color: #1e90ff !important; /* Màu xanh đậm cho loại lỗi */
+}
+
+.confidence {
+  font-weight: 600;
+  font-size: 0.9em;
+  color: #32cd32 !important; /* Màu xanh lá cho độ tự tin */
+}
+
+.confidence-list {
+  list-style-type: none;
+  font-weight: 600;
+  font-size: 0.9em;
+}
+
+.confidence-list li {
+  font-size: 0.9em;
+}
+
+.damage-size {
+  font-size: 0.9em;
+}
+
+.color-code {
+  font-size: 0.9em;
+}
+
+p {
+  margin: 5px 0; /* Giảm khoảng cách giữa các dòng */
+}
+
+.predictions-container {
+  max-height: 400px; /* Chiều cao cố định cho khung cuộn */
+  overflow-y: auto; /* Bật cuộn dọc */
+  padding: 10px;
+  border: 1px solid #ccc; /* Tùy chọn: Thêm đường viền cho khung */
+  border-radius: 8px; /* Tùy chọn: Thêm bo góc cho khung */
+  margin-top: 10px;
+}
+.scrollable-container {
+  max-height: 400px; /* Chiều cao tối đa của khung chứa */
+  overflow-y: auto; /* Kích hoạt cuộn dọc khi nội dung vượt quá */
+  padding-right: 10px; /* Để tránh thanh cuộn chồng lên nội dung */
+}
+
+.background-predict {
+  border-radius: 5px;
+  padding: 4px;
+  margin-top: 8px;
+  background-color: #e0e5ec;
+}
+
+/* Evaluation */
+
+/* Container cho toàn bộ phần đánh giá */
+.evaluation-container {
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+/* Tiêu đề của phần kết quả đánh giá */
+.evaluation-title {
+  font-size: 24px;
+  text-align: left;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+/* Grid căn chỉnh đều các cột */
+.evaluation-grid {
+  display: grid;
+  grid-template-columns: 0.5fr 0.7fr 1fr ; /* 3 cột, cột cuối nhỏ hơn */
+  gap: 2px; /* Giảm khoảng cách giữa các cột */
+  align-items: center;
+}
+
+/* Tên loại lỗi */
+.evaluation-defect {
+  font-size: 16px;
+  font-weight: bold;
+  text-align: left;
+}
+
+/* Biểu đồ Progress */
+.evaluation-progress {
+  text-align: left;
+}
+
+/* Khuyến nghị */
+.evaluation-recommendation {
+  text-align: left;
+  font-size: 16px;
+  color: #595959;
+}
+
+/* Nút đánh giá */
+.evaluate-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  background-color: #1890ff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 20px;
+  transition: background-color 0.3s ease;
+}
+
+.evaluate-button:hover {
+  background-color: #40a9ff;
+}
