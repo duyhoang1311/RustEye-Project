@@ -1,0 +1,486 @@
+[
+    {
+        "frame_id": 0,
+        "objects": [
+            {
+                "class_name": "corrosion",
+                "confidence": 0.6696632504463196
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.5165594816207886
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.45428603887557983
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.35795527696609497
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.3395346403121948
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.3281002938747406
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.31739190220832825
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.3109939396381378
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.2996336817741394
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.29738956689834595
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.27168771624565125
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.2662132978439331
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.24555176496505737
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.2445719689130783
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.21990054845809937
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.20360107719898224
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.20087844133377075
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.19663822650909424
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.18677090108394623
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.18631942570209503
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.18482527136802673
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.1818045675754547
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.1743393987417221
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.172013521194458
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.1593417376279831
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.15540198981761932
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.15323074162006378
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.15288102626800537
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.1527629941701889
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.15063738822937012
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.14714142680168152
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.14566539227962494
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.14171257615089417
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.13693353533744812
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.12949419021606445
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.12940552830696106
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.1283877193927765
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.12753017246723175
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.12452970445156097
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.12385918200016022
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.12385260313749313
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.1226261705160141
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.12253139168024063
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.12131967395544052
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.12056858092546463
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.12047471106052399
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.11817655712366104
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.11565827578306198
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.11347629129886627
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.11319664865732193
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.11272084712982178
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.11041613668203354
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.10923079401254654
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.10706520080566406
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.10291605442762375
+            }
+        ]
+    },
+    {
+        "frame_id": 600,
+        "objects": [
+            {
+                "class_name": "corrosion",
+                "confidence": 0.6186468601226807
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.5690993070602417
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.49276044964790344
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.4046727418899536
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.33627837896347046
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.29456838965415955
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.2815181612968445
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.25161924958229065
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.2442256510257721
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.2264288365840912
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.21106301248073578
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.20564934611320496
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.19505347311496735
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.19092853367328644
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.1884751319885254
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.18680080771446228
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.1805768758058548
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.16899855434894562
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.15260975062847137
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.13683728873729706
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.13422392308712006
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.13283810019493103
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.1287713348865509
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.11817718297243118
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.11742282658815384
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.1137600764632225
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.10763510316610336
+            }
+        ]
+    },
+    {
+        "frame_id": 1200,
+        "objects": [
+            {
+                "class_name": "corrosion",
+                "confidence": 0.300527423620224
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.28295665979385376
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.27146589756011963
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.24517415463924408
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.2145574688911438
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.2031765580177307
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.18808290362358093
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.18694590032100677
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.17526555061340332
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.16857559978961945
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.15506263077259064
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.1492246836423874
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.14563296735286713
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.12651686370372772
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.12199215590953827
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.11274521052837372
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.11080552637577057
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.11032398790121078
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.10699766874313354
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.10234317928552628
+            }
+        ]
+    },
+    {
+        "frame_id": 1800,
+        "objects": [
+            {
+                "class_name": "corrosion",
+                "confidence": 0.2781353294849396
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.27804356813430786
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.23882386088371277
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.23788756132125854
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.21305181086063385
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.18778693675994873
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.17557744681835175
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.1734686642885208
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.14101126790046692
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.1267937272787094
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.12425373494625092
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.12404999136924744
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.11250874400138855
+            },
+            {
+                "class_name": "corrosion",
+                "confidence": 0.11216627806425095
+            }
+        ]
+    }
+]
